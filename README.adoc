@@ -3,7 +3,7 @@
 Диплом 2019 ....
 
 ## Будем верить что все получится
-
+da tochno
 
     asciidoctor-pdf -a toc -osrc/main/resources/static/pdf/readme.pdf vesna/readme.adoc
     
